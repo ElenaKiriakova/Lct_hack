@@ -1,0 +1,15 @@
+dash==2.5.0
+dash_auth==1.4.1
+dash_bootstrap_components==1.1.0
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+dash_renderer==1.1.2
+dask==2022.10.2
+matplotlib==3.5.1
+modin==0.16.2
+numpy==1.22.3
+pandas==1.5.1
+plotly==5.6.0
+vaex==4.14.0
+vaex_viz==0.5.4
+visdcc==0.0.50

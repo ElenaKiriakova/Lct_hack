@@ -1,0 +1,141 @@
+/* BODY */
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background: #ebebeb;
+    /*background: #EAEAEA*/
+    font-family: 'Roboto', sans-serif;
+    color: #242424;
+    height: 2000px;
+
+}
+
+/* HEADER */
+.header{
+    width: 100%;
+    margin:0;
+    height: 5vh;
+    background: #1B1B1B;
+}
+
+
+#head-TAG{
+    background: #D9D9D9;
+
+}
+
+/* BARSIDE */
+.barside {
+    background: #D9D9D9;
+    height: 200hv;
+}
+
+.text-as-site-bar{
+    margin: 5px 0 5px 0;
+    font-size: 12px;
+    color:#343473;
+}
+
+.selector-title-text{
+    font-size: 14px;
+    margin: 5px 0 5px 0;
+}
+
+/* SELECTORS */
+
+.selector-title{
+    font-size: 12px;
+}
+
+.selector-box{
+    width: 80%;
+    font-size: 11px;
+    margin: 10px 0 10px 0;
+}
+
+/* BUTTONS */
+#select-all{
+    margin-top: 0px;
+    margin-bottom: 25px;
+    background-color: #555555;
+    color: white;
+    font-size: 12px;
+    border-radius: 4px;
+
+}
+
+#click1{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    background-color: #555555;
+    color: white;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+/* MAIN SIDE */
+
+.wrapper{
+    margin-left: 5%;
+}
+
+.text{
+    margin-left: 1%;
+}
+
+.text-select{
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.select-main-side{
+    margin: 15px 0 15px 0;
+}
+
+.text-as-site{
+    font-size: 11px;
+    margin: 10px 0 0 10px;
+    color: #2c4999;
+
+}
+
+.text-margin{
+    margin-top: 50px;
+}
+
+/* TABLES */
+
+.title-stat{
+    margin: 15px 0 15px 0;
+    font-weight: bold;
+}
+
+
+.tables{
+    font-size: 9;
+    margin: 20px 0 20px 0;
+
+}
+
+.table-bottom{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+/* FIGURS */
+
+.figs{
+    background-color: #FFFFFF;
+    margin: 20px 0 20px 0;
+    font-weight: bold;
+}
+
+#graph-container-prod-graf{
+    background-color: #FFFFFF;
+}
+
+#tnvd-graphpie{
+    margin-bottom: 50px;
+}
